@@ -7,6 +7,7 @@ I'm currently an admin and org manager for [**Pygame Community**](https://github
 
 
 #### Technologies I'm familiar with:
+<table>
 ##### Languages
 - **Python**
 - **JavaScript**
@@ -18,6 +19,7 @@ I'm currently an admin and org manager for [**Pygame Community**](https://github
 ##### Frameworks
 - **Django**
 - **SQLAlchemy**
+- **MongoDB**
 - **discord.py**
 - **Node.js**
 - **React**
@@ -26,5 +28,5 @@ I'm currently an admin and org manager for [**Pygame Community**](https://github
 - **Windows**
 - **MacOS**
 - **Linux (Ubuntu)**
-
+</table>
 #### [Discord: `Mega_JC#8804`](https://discord.com/users/444116866944991236)
