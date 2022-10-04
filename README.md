@@ -6,7 +6,7 @@ I'm Sunny, a student currently studying computer science in Berlin. I've been an
 I'm currently an admin and org manager of [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame/)-focused server on the platform.    
 
 
-<h3 align="center">Technologies I've worked with</h3>
+<h3 align="center"><em>Technologies I've worked with:</em></h3>
 <table border="none" align=center>
   <tr>
     <th><b>Languages</b></th>
