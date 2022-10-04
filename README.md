@@ -7,7 +7,7 @@ I'm currently an admin and org manager for [**Pygame Community**](https://github
 
 
 #### Technologies I'm familiar with:
-##### Frameworks
+##### Languages
 - **Python**
 - **JavaScript**
 - **SQL**
