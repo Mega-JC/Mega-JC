@@ -3,7 +3,7 @@
 I'm Sunny, a student currently studying computer science in Berlin. I've been an avid Python user since 2018, and have since expanded my knowledge to JavaScript, SQL, Java and C.
 
 
-I'm currently an admin and org manager for [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame/)-focused server on the platform.    
+I'm currently an admin and org manager of [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame/)-focused server on the platform.    
 
 
 <h3 align="center">Technologies I've worked with</h3>
