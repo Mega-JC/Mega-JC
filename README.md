@@ -10,7 +10,8 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
 <table border="none" align=center>
   <tr>
     <th><b>Languages</b></th>
-    <th><b>Frameworks & DB Engines</b></th>
+    <th><b>DB Engines & Frameworks</b></th>
+    <th><b>Web Frameworks & APIs</b></th>
     <th><b>Operating Systems</b></th>
   </tr>
   <tr>
@@ -26,12 +27,25 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
     </td>
     <td>
       <ul>
-        <li><b><a href="https://www.djangoproject.com/">Django</a></b></li>
+        <li><b><a href="https://www.mongodb.com/">MongoDB</a></b>
+        <li><b><a href="https://www.sqlite.org/index.html">SQLite</a></li>
+        <li><a href="https://www.postgresql.org/">PostgreSQL</a></b></li>
+      </ul>
+      <b>Frameworks:</b>
+      <ul>
         <li><b><a href="https://www.sqlalchemy.org/">SQLAlchemy</a></b></li>
-        <li><b><a href="https://www.mongodb.com/">MongoDB</a></b>, <b><a href="https://www.sqlite.org/index.html">SQLite</a> & <a href="https://www.postgresql.org/">PostgreSQL</a></b></li>
+      </ul>
+    </td>
+    <td>
+    <b>APIs:</b>
+      <ul>
         <li><b><a href="https://github.com/Rapptz/discord.py">discord.py</a></b></li>
+      </ul>
+    <b>Web Frameworks:</b>
+      <ul>
         <li><b><a href="https://nodejs.org/">Node.js</a></b></li>
-        <li><b><a href="https://reactjs.org/">React</a></b></li>
+        <li><b><a href="https://www.djangoproject.com/">Django</a></b></li>
+        <li><b><a href="https://reactjs.org/">React</a>, <a href="https://nextjs.org/">NextJS</a></b></li>
       </ul>
     </td>
     <td>
