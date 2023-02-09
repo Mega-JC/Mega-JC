@@ -17,7 +17,7 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
     <td>
       <ul>
         <li><b>Python</b></li>
-        <li><b>JavaScript</b></li>
+        <li><b>JavaScript/TypeScript</b></li>
         <li><b>SQL</b></li>
         <li><b>Java</b></li>
         <li><b>C</b></li>
