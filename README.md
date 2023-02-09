@@ -38,7 +38,7 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
       <ul>
         <li><b>Windows</b></li>
         <li><b>MacOS</b></li>
-        <li><b>Linux (Ubuntu WSL2)</b></li>
+        <li><b>Linux (Ubuntu, Fedora, WSL2)</b></li>
       </ul>
     </td>
   </tr>
