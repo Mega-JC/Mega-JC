@@ -42,10 +42,11 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
       <ul>
         <li><b><a href="https://github.com/Rapptz/discord.py">discord.py</a></b></li>
       </ul>
-      <b>Web Frameworks:</b>
+      <b>Web Technologies:</b>
       <ul>
         <li><b><a href="https://nodejs.org/">Node.js</a></b></li>
         <li><b><a href="https://www.djangoproject.com/">Django</a></b></li>
+        <li><b><a href="https://flask.palletsprojects.com/">Flask</a></b></li>
         <li><b><a href="https://reactjs.org/">React</a>, <a href="https://nextjs.org/">NextJS</a></b></li>
       </ul>
     </td>
