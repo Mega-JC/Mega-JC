@@ -1,12 +1,11 @@
-## Hi there!
+## Welcome
 
-I'm Sunny, a student currently studying computer science in Berlin. I've been an avid Python user since 2018, and have since expanded my knowledge to JavaScript, SQL, Java and C.
+I'm Sunny, a Berlin-based full-stack web developer with strong design intuition (this README is a work in progress, stay tuned).
+
+I manage [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
 
 
-I'm currently an admin and org manager of [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
-
-
-<h3 align="center"><em>Technologies I've worked with:</em></h3>
+<h3 align="center"><em>My Repertoire</em></h3>
 <table border="none" align=center>
   <tr>
     <th><b>Languages</b></th>
@@ -26,7 +25,7 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
       </ul>
     </td>
     <td>
-      <b>DB Engines:</b>
+      <b>Databases</b>
       <ul>
         <li><b><a href="https://www.mongodb.com/">MongoDB</a></b>
         <li><b><a href="https://www.sqlite.org/index.html">SQLite</a></li>
@@ -60,4 +59,4 @@ I'm currently an admin and org manager of [**Pygame Community**](https://github.
   </tr>
 </table>
 
-#### [Discord: `Mega_JC#8804`](https://discord.com/users/444116866944991236)
+#### [Discord: `sunnyjc`](https://discord.com/users/444116866944991236)
