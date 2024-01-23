@@ -5,7 +5,7 @@ I'm Sunny, a Berlin-based full-stack web developer with strong design intuition 
 I manage [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame(-ce)`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
 
 
-<h3 align="center"><em>My Repertoire</em></h3>
+<h2 align="center"><em>My Repertoire</em></h2>
 <table border="none" align=center>
   <tr>
     <th><b>Languages</b></th>
@@ -56,6 +56,17 @@ I manage [**Pygame Community**](https://github.com/pygame-community/) and its [*
         <li><b>Linux (Ubuntu, Fedora, WSL2)</b></li>
       </ul>
     </td>
+  </tr>
+</table>
+
+<h3 align="center"><em>Other</em></h3>
+
+<table border="none" align=center>
+  <tr>
+    <th><a href="https://blender.org/"><b>Blender 3D</b></a></th>
+    <th><a href="https://notion.so/product"><b>Notion</b></a></th>
+    <th><a href="https://affinity.serif.com/"><b>Affinity Suite</b></a></th>
+    <th><a href="https://inkscape.org/"><b>Inkscape</b></a></th>
   </tr>
 </table>
 
