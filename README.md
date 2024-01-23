@@ -2,7 +2,7 @@
 
 I'm Sunny, a Berlin-based full-stack web developer with strong design intuition (this README is a work in progress, stay tuned).
 
-I manage [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
+I manage [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame(-ce)`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
 
 
 <h3 align="center"><em>My Repertoire</em></h3>
