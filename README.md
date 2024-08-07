@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm Sunny, a Berlin-based full-stack web developer with strong design intuition (this README is a work in progress, stay tuned).
+I'm Sunny, a Berlin-based full-stack web developer with strong design intuition.
 
 I manage [**Pygame Community**](https://github.com/pygame-community/) and its [**Discord server**](https://discord.com/invite/ZuB2RySPRJ), the largest [`pygame(-ce)`](https://github.com/pygame-community/pygame-ce)-focused group on the platform.    
 
