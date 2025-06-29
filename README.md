@@ -70,4 +70,4 @@ I manage [**Pygame Community**](https://github.com/pygame-community/) and its [*
   </tr>
 </table>
 
-#### [Discord: `sunnyjc`](https://discord.com/users/444116866944991236)
+#### [Discord: `sunnyjco`](https://discord.com/users/444116866944991236)
